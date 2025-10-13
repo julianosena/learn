@@ -1,0 +1,20 @@
+{
+  "name": "multimodality",
+  "version": "1.0.0",
+  "description": "Scrimba project to work with multimodality",
+  "keywords": [
+    "ai",
+    "multimodality"
+  ],
+  "license": "ISC",
+  "author": "Juliano Sena da Silva Carlos",
+  "type": "module",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.89.0"
+  }
+}
